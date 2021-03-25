@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "João da Silva",
+    "login": "joao.s",
+    "email": "joao@example.com",
+    "password": "pwdJoao"
+  },
+  {
+    "id": 2,
+    "name": "Maria da Silva",
+    "login": "maria.s",
+    "email": "maria@example.com",
+    "password": "pwdMaria"
+  }
+]
